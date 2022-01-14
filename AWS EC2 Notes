@@ -1,0 +1,8 @@
+aws --version
+
+### SSH TO EC2 INSTANCE
+$ssh -i EC2Tutorial.pem ec2user@35.180.100.144
+$whoami
+$ping google.com
+
+aws iam list-users
